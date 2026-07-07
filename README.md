@@ -39,7 +39,7 @@ The primary objective of DEVLA is to demonstrate the practical application of ro
 
 ## Team Name
 
-DEVLA
+KINDOM TECH'S CONCEPT (KTC)
 
 ## Team Members
 
