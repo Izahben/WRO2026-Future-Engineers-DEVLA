@@ -104,7 +104,7 @@ The STM32 then provides a regulated 3.3V supply for low-voltage sensors and comm
 * TCS34725 Color Sensor
 * PCA9548A Multiplexer
 
-![Power Management Schematic](images/hardware/power-schematic.jpg)
+![Power Management Schematic](images/power-schematic.jpg)
 
 ### System Stability
 
