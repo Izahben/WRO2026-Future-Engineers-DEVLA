@@ -72,7 +72,7 @@ The STM32 functions as the real-time control unit. It handles sensor acquisition
 
 This separation allows both processors to focus on their specific tasks, improving reliability and overall system performance.
 
-![System Architecture Diagram](images/power-schematic.jpg)
+![System Architecture Diagram](images/system-architecture.jpg)
 
 ---
 
