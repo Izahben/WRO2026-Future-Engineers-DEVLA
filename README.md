@@ -66,7 +66,6 @@ KINGDOM TECH'S CONCEPT (KTC)
   </tr>
 </table>
 
-![Team KTC](images/team-photo.jpg)
 
 DEVLA is a collaborative robotics project developed by a team of students passionate about robotics, embedded systems, computer vision, and autonomous vehicle technology. Through the development of this vehicle, the team aims to apply engineering principles to solve real-world navigation challenges while gaining practical experience in robotics design and implementation.
 
