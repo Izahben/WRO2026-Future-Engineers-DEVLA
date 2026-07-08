@@ -264,10 +264,10 @@ Why we chose the SG90:
 The SG90 servo controls the Ackermann steering mechanism and enables precise steering adjustments.
 <div style="clear: both;"></div><br>
 
-### MS5308 Motor Driver
+### MX1508 Motor Driver
 <img src="images/hardware/ms5308.jpg" width="275" align="right" style="margin-left: 20px;" />
 
-Why we chose the MS5308:
+Why we chose the MX1508:
 > - **Direct battery power handling** for consistent motor performance
 > - **Simple control interface** from the STM32
 > - **Reliable speed and direction control** for the drive motor
@@ -277,10 +277,10 @@ Why we chose the MS5308:
 The motor driver regulates the speed and direction of the drive motor.
 <div style="clear: both;"></div><br>
 
-### PCA9548A I²C Multiplexer
+### TCA9548A I²C Multiplexer
 <img src="images/hardware/pca9548a.jpg" width="275" align="right" style="margin-left: 20px;" />
 
-Why we chose the PCA9548A:
+Why we chose the TCA9548A:
 > - **Solves address conflicts** between multiple identical I²C sensors
 > - **8-channel switching** gives room to expand sensors later
 > - **Simple software control** for channel selection
