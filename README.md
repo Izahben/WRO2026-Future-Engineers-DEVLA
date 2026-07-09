@@ -307,7 +307,7 @@ Why we chose the TCA9548A:
 The multiplexer enables multiple I²C devices with identical addresses to communicate on the same bus without conflicts.
 <div style="clear: both;"></div><br>
 
-### Gear Motor
+### Gear Motor(*2)
 <img src="images/hardware/gear-motor.jpg" width="275" align="right" style="margin-left: 20px;" />
 
 Why we chose the gear motor:
