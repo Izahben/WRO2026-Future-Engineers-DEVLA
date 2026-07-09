@@ -216,7 +216,7 @@ Why we chose the STM32:
 The STM32 provides real-time control of sensors, steering, and motor systems. It was selected because of its speed, reliability, and precise hardware control capabilities.
 <div style="clear: both;"></div><br>
 
-### VL53L0X Time-of-Flight Sensors
+### VL53L0X Time-of-Flight Sensors(*4)
 <img src="images/hardware/vl53l0x.jpg" width="275" align="right" style="margin-left: 20px;" />
 
 Why we chose the VL53L0X:
