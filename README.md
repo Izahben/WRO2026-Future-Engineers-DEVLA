@@ -49,18 +49,18 @@ KINGDOM TECH'S CONCEPT (KTC)
       <img src="images/team/solomon.jpg" width="100%" style="border-radius: 8px;"><br>
       <strong>OLAWOYE SOLOMON</strong><br>
       <em>Hardware Engineer</em><br>
-      <sub>Wiring, Circuit Design, also assisted with Software & Programming</sub>
+      <sub>Wiring, Circuit Design, Programming</sub>
     </td>
     <td align="center" width="33%">
       <img src="images/team/yusuf.jpg" width="100%" style="border-radius: 8px;"><br>
       <strong>MOSUID YUSUF</strong><br>
       <em>Hardware Support</em><br>
-      <sub>Assisted with Wiring, Circuit Design, and Hardware Assembly</sub>
+      <sub>Mechanical Design/Structure, Circuit Design, and Hardware Assembly</sub>
     </td>
     <td align="center" width="33%">
       <img src="images/team/goodluck.jpg" width="100%" style="border-radius: 8px;"><br>
       <strong>IZAHBEN GOODLUCK</strong><br>
-      <em>Software/Programmer</em><br>
+      <em>Software/Embedded Programmer</em><br>
       <sub>Navigation Logic, Sensor Integration, Code Development</sub>
     </td>
   </tr>
