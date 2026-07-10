@@ -284,7 +284,7 @@ The SG90 servo controls the Ackermann steering mechanism and enables precise ste
 ### TB6612FNG Motor Driver
 <img src="https://github.com/user-attachments/assets/866c6ae5-93d2-4441-918d-3df8a2658b65" width="275" align="right" style="margin-left: 20px;" />
 
-Why we chose the MX1508:
+Why we chose the TB6612FNG:
 > - **Direct battery power handling** for consistent motor performance
 > - **Simple control interface** from the STM32
 > - **Reliable speed and direction control** for the drive motor
