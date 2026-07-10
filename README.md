@@ -281,8 +281,9 @@ Why we chose the SG90:
 The SG90 servo controls the Ackermann steering mechanism and enables precise steering adjustments.
 <div style="clear: both;"></div><br>
 
-### MX1508 Motor Driver
-<img src="images/hardware/ms5308.jpg" width="275" align="right" style="margin-left: 20px;" />
+### TB6612FNG Motor Driver
+<img src="<img width="447" height="447" alt="TB6612" src="https://github.com/user-attachments/assets/866c6ae5-93d2-4441-918d-3df8a2658b65" />
+" width="275" align="right" style="margin-left: 20px;" />
 
 Why we chose the MX1508:
 > - **Direct battery power handling** for consistent motor performance
@@ -290,6 +291,7 @@ Why we chose the MX1508:
 > - **Reliable speed and direction control** for the drive motor
 > - **Reasonable current handling** for our gear motor's demands
 > - **Compact footprint** that fits within our power distribution layout
+> - **High Maximum PWM Frequency** up to 100KHz
 
 The motor driver regulates the speed and direction of the drive motor.
 <div style="clear: both;"></div><br>
