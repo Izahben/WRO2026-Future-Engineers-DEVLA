@@ -15,6 +15,7 @@
   * Power Management System
   * Navigation and Control System
 * Hardware Used
+* Vehicle Photos
 * Software & Libraries
 * Competition Challenges
 * Spoilers
@@ -320,6 +321,43 @@ Why we chose the gear motor:
 
 The geared DC motor provides vehicle propulsion while maintaining a balance between speed and torque.
 <div style="clear: both;"></div><br>
+
+---
+
+# Vehicle Photos
+
+The following images show DEVLA from all six standard angles, as documented in the `D-Photos` folder.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="D-Photos/front.jpg" width="100%" style="border-radius: 8px;"><br>
+      <strong>Front View</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="D-Photos/back.jpg" width="100%" style="border-radius: 8px;"><br>
+      <strong>Back View</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="D-Photos/left.jpg" width="100%" style="border-radius: 8px;"><br>
+      <strong>Left View</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="D-Photos/right.jpg" width="100%" style="border-radius: 8px;"><br>
+      <strong>Right View</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="D-Photos/top.jpg" width="100%" style="border-radius: 8px;"><br>
+      <strong>Top View</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="D-Photos/bottom.jpg" width="100%" style="border-radius: 8px;"><br>
+      <strong>Bottom View</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
