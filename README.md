@@ -5,6 +5,14 @@
 ![DEVLA Robot](images/devla-banner.jpg)
 
 ---
+ 
+## Content Structure
+* `D-Photos` – Contains vehicle images from multiple angles: front, back, left, right, and top.
+* `T-Photos` – Contains team photos, including build/soldering work sessions.
+* `sensors` – Contains sensor drivers, test programs, calibration data, and documentation.
+* `images` – Contains supporting images used throughout this `README.md`, including hardware component photos, team photos, and system diagrams.
+* `DEVLA_VL53L0X_CODE.ino` – Firmware source code for the VL53L0X distance sensors.
+---
 
 # Table of Contents
 
