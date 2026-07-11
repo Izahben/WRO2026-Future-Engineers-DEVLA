@@ -1,8 +1,6 @@
 <div align="center">
 
-# **DEVLA**
-
-### Smart Self-Driving Car for WRO Future Engineers
+![DEVLA](images/devla-title.png)
 
 </div>
 
