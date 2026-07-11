@@ -1,8 +1,9 @@
 <div align="center">
+
 # **DEVLA**
- 
+
 ### Smart Self-Driving Car for WRO Future Engineers
- 
+
 </div>
 
 ![DEVLA Robot](images/devla-banner.jpg)
@@ -20,6 +21,7 @@
 # Table of Contents
 
 * Overview
+* Content Structure
 * Team Introduction & Team Information
 * Project Description
   * Hardware Architecture
