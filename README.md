@@ -1,6 +1,9 @@
-# DEVLA
-
+<div align="center">
+# **DEVLA**
+ 
 ### Smart Self-Driving Car for WRO Future Engineers
+ 
+</div>
 
 ![DEVLA Robot](images/devla-banner.jpg)
 
